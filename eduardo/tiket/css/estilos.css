@@ -1,0 +1,22 @@
+*{
+	margin: 1000;
+	padding: 0;
+}
+body{
+	color:blue;
+	background:url(../imagenes/fondo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center 0;
+}
+div{
+	
+background: #6DC36D;	
+}
+.caja {
+	position:absolute;
+	top:;
+	bottom:;
+	right:;
+	left:100px;
+}
