@@ -1,18 +1,24 @@
-
-const arg = require('yargs').argv
-// Aqui accedemos a la variable “fecha” que sera pasada al ejecutar el co
-
-
-function calcularEdad( arg.fecha, arg.mes, arg.dia){
-    var hoy = new Date();
-    var cumpleanos =new Date();
-    var edad = hoy.getFullYear() - cumpleanos.getFullYear();
-    var m = hoy.getMonth() - cumpleanos.getMonth();
-
-    if (m < 0 || (m === 0 && hoy.getDate() < cumpleanos.getDate())){
-        console.log("Edad="+ calcularEdad)      }
-    }    
-
-
-         
+    const arg = require('yargs').argv
     
+     var nuevoarray=JSON.parse(arg.arreglo);
+     var suma = 0; 
+     var max=0;
+     var min=0;
+     for(var i=0 ; i<nuevoarray.length; i++)
+             {suma += nuevoarray[i];}
+     
+    for(var i=0;i<nuevoarray.length;i++){
+       if(max<nuevoarray[i]){
+           max=nuevoarray[i]; }}
+  
+     for(var i=0;i>nuevoarray.length;i++){
+            if(min>nuevoarray[i]){
+                min>=nuevoarray[i]; }}
+
+    console.log("Promedio= "+(suma/nuevoarray.length))
+   console.log("Maximo="+ Math.max(max)) 
+   console.log("Minimo="+ Math.min(min)) 
+   
+ 
+  
+  

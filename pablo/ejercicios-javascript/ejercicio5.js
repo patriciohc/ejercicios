@@ -8,5 +8,8 @@
     var f=new Date();
     
       console.log("Tienes "+(f.getFullYear()-arg.fecha)
-      +" años, "+"con "+(f.getMonth()+1 - arg.mes)+" meses"+"y ya no se cuantos pinxes dias")
+      +" años, "+"con "+(f.getMonth()+1 - arg.mes)+" meses"+"y ya no se cuantos dias")
+
+
+    
              
