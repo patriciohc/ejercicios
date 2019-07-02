@@ -1,6 +1,20 @@
 const arg = require('yargs').argv
- // Aqui accedemos a la variable “nombre” que sera pasada al ejecutar el comando 
+ 
+ var r=JSON.parse(arg.radio);
+  
+function areacirculo(r){
+          return Math.PI*(r*r);
+          }
+          var resultado = areacirculo(r);
+          
+          
+          function perimetrocirculo(r){
+              return Math.PI*(r+r);
+            }  
+            
+            var resultado2 = perimetrocirculo(r);       
+
+     console.log("Area= "+resultado)
+     console.log("Perimetro = "+resultado2)
 
 
-  console.log("Perimetro = " + Math.PI*(arg.radio)*2)
-  console.log("Area ="+Math.PI*(arg.radio)*(arg.radio) )

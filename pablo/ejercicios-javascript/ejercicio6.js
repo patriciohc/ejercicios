@@ -1,5 +1,6 @@
     const arg = require("yargs").argv
      
+    
     var nuevoarray=JSON.parse(arg.arreglo);
      var suma = 0;
     
