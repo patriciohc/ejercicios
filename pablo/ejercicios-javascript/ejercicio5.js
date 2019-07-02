@@ -9,4 +9,3 @@ if (hoy.getMonth() < cumple.getMonth()) {
 }
 
 console.log("Tienes " + años)
-

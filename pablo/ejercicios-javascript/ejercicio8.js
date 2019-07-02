@@ -5,11 +5,9 @@ suma = 0,
 max=nuevoarray[0],
 min=nuevoarray[0];
 
-for(var i=0 ; i<nuevoarray.length; i++)
-        {
+for(var i=0 ; i<nuevoarray.length; i++){
            suma += nuevoarray[i];
         }
-
         
         for(var i=0;i<nuevoarray.length;i++)
 {
