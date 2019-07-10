@@ -1,20 +1,19 @@
 const arg = require('yargs').argv
  
- var r=JSON.parse(arg.radio);
+ 
   
-function areacirculo(r){
-          return Math.PI*(r*r);
+          function areaCirculo(rad){
+                var rad = JSON.parse(arg.radio);   
+                return Math.PI*(rad*rad)
           }
-          var resultado = areacirculo(r);
+              
+                     console.log("Area= "+ areaCirculo())
+
           
           
-          function perimetrocirculo(r){
-              return Math.PI*(r+r);
-            }  
-            
-            var resultado2 = perimetrocirculo(r);       
-
-     console.log("Area= "+resultado)
-     console.log("Perimetro = "+resultado2)
-
-
+           function perimetroCirculo(rad1){
+                var rad1 = JSON.parse(arg.radio);
+                   return  Math.PI*(rad1+rad1)
+       }
+             console.log("Perimetro: "+perimetroCirculo())
+          

@@ -33,7 +33,8 @@ const arg = require('yargs').argv
                      function numMinimo(array3){
                     
                           var array3 = JSON.parse(arg.arreglo);
-                                 min = array3[0];
+                                 
+                                   min = array3[0];
 
                               for (var y= 0; y > array3.length;  y++){
                                   if (min > array3[y] ) {
