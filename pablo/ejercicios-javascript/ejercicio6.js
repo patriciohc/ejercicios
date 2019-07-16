@@ -1,8 +1,8 @@
 const arg = require('yargs').argv
-    var nuevoarray=JSON.parse(arg.arreglo),
-        suma = 0,
-            max = nuevoarray[0],
-               min = nuevoarray[0];
+    var nuevoarray=JSON.parse(arg.arreglo);
+       var suma = 0;
+           var max = nuevoarray[0];
+               var  min = nuevoarray[0];
                     for ( var i = 0; 
                      i < nuevoarray.length;
                        i ++
