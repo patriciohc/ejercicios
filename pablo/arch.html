@@ -8,14 +8,16 @@
     <title>ciclo for</title>
 </head>
 <body>
-    <script>  
-    
-    var string="1, 2, 3 ,4, 5";
-    var comvertidoaarray=string.split(",");
-  console.log(comvertidoaarray);
-     
-
-
+    <script> 
+    var c = [];
+    var frutas = [ {manzana:"roja"},
+                   {manzana:"verde"},
+                   {manzana:"amarilla"}
+                  ];
+    for (i=0; i<frutas.length; i++){
+      c.push(frutas[i].manzana);
+    };
+document.write(c);
 </script>
 </body>
 </html>
