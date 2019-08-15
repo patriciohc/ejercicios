@@ -1,0 +1,203 @@
+ID,DESCRIPCION,RESP_OK,R1,R2,R3
+1,1 manzana aporta:,55,36,7,55
+2,1 naranja aporta:,36,29,31,36
+3,1 cereza aporta:,5,4,5,7
+4,1 pera aporta:,94,149,24,94
+5,1 mango aporta:,144,139,144,101
+6,1 granada aporta:,44,44,24,18
+7,1 fresa aporta:,4,4,5,1
+8,1 durazno aporta:,30,29,30,10
+9,1 kiwi aporta:,46,50,52,46
+10,1 platano aporta:,96,39,82,96
+11,1 papa cocida mediana aporta:,143,146,143,204
+12,1 taza de papaya aporta:,55,64,54,55
+13,1 jitomate aporta:,22,14,22,32
+14,1 taza de brocoli cocido aporta:,52,52,21,56
+15,14 piezas de cacahuate aportan:,73,63,68,73
+16,100 gramos de coco aporta:,354,265,354,314
+17,1 taza de frambuesa aporta:,64,72,75,64
+18,1 taza de melon aporta:,53,53,63,27
+19,1 taza de sandia aporta:,46,40,45,46
+20,1 taza de piña aporta:,50,99,68,50
+21,1/2 aguacate aporta:,162,22,162,159
+22,1 taza de moras aporta:,62,41,4,62
+23,1 guanabana mediana aporta:,90,90,34,82
+24,10 piezas de alitas de pollo fritas bañadas en salsa aportan:,890,792,890,1107
+25,1 rebanada de 80 gramos de pay de queso aporta:,264,299,66,264
+26,5 galletas maria aportan:,69,27,69,15
+27,1 taza de 200 ml de leche de almendra aporta:,30,30,37,53
+28,1 taza de 240 ml de jugo de naranja natural aporta:,108,43,108,34
+29,1 palomitas chicas de cine aporta:,430,567,275,430
+30,10 almendras aportan:,66,66,79,70
+31,210 gramos de papas a la francesa aporta:,208,208,319,241
+32,1 taza de 240 ml de leche de vaca entera aporta:,148,148,23,119
+33,1 lata de refresco de cola aporta:,139,194,96,139
+34,1 rollo de 8 sushis con camaron aporta:,423,603,117,423
+35,2 rebanadas de pizza aportan:,365,205,101,365
+36,1 dona glaseada aporta:,306,306,19,34
+37,1 muffin aporta:,321,321,506,400
+38,1 panecillo con cubierta de chocolate aporta:,195,305,195,151
+39,1 pieza de malvavisco con chocolate aporta:,118,28,44,118
+40,1 galleta con malvavisco cubierta con chocalate aporta:,199,70,146,199
+41,1 bolsa de papas fritas aporta:,210,43,199,210
+42,8 aros de cebolla aportan:,276,45,276,400
+43,3 dedos de queso aportan:,255,295,255,332
+44,1 taza de 240 ml de leche de soya aporta:,127,127,84,219
+45,1/2 taza de frijoles fritos aporta:,188,244,188,178
+46,100 gramos de filete de pescado a la plancha aporta:,110,133,110,77
+47,100 gramos de filete de pescado empanizado aporta:,350,244,155,350
+48,5 palomitas de pollo con salsa aportan:,225,225,286,157
+49,1 taza de 240 ml de cocktail de camarones aporta:,196,196,273,221
+50,1 taza de arroz blanco con verduras aporta:,175,195,232,175
+51,1 taza de arroz con leche aporta:,370,119,392,370
+52,6 galletas sabor chocolate aportan:,258,258,266,43
+53,"1 club sandwich de jamon, queso y verduras aporta:",280,66,247,280
+54,1 rebanada de 80 gramos de pay de limon aporta:,315,210,315,160
+55,1 rebanada de pastel de chocolate de 80 gramos aporta:,185,83,185,65
+56,3 galletas con chispas de chocolate aportan:,105,12,77,105
+57,1 frape de chocolate aporta:,515,515,177,589
+58,1 barra de chocolate de 41 gramos aporta:,230,44,230,91
+59,1 taza de café de 240 ml sin azucar aporta:,5,5,8,3
+60,1 taza de te de manzanilla de 240 ml sin azucar:,2,3,2,1
+61,1 shot de tequila aporta:,64,63,49,64
+62,2 hot cakes aportan:,270,201,228,270
+63,2 crepas dulces aportan:,195,179,241,195
+64,1 papas locas aportan:,668,175,340,668
+65,60 gramos de cacahuates japoneses aporta:,300,16,412,300
+66,3 nueces aportan:,67,13,57,67
+67,1 taza de gelatina sin azucar aporta:,10,3,8,10
+68,1/2 taza de gelatina de leche aporta:,145,34,79,145
+69,3 tacos de arrachera aportan:,480,645,480,309
+70,1 huevo cocido aporta:,57,28,57,71
+71,1 huevo frito aporta:,90,67,90,79
+72,100 gramos de pescado frito aporta:,206,163,213,206
+73,40 gramos de ensalada de surimi aporta:,126,42,88,126
+74,2 tacos de tripa aportan:,333,187,333,100
+75,100 gramos de pavo cocido aporta:,126,99,126,172
+76,1 taza de 240 ml de leche con chocolate aporta:,208,188,93,208
+77,100 gramos de filete de T-bone aporta:,247,247,167,206
+78,100 gramos de chicharron de pescado aporta:,410,149,410,239
+79,120 gramos de arrachera aporta:,120,164,99,120
+80,3 piezas de sardina aportan:,75,41,101,75
+81,1 manzana enchilada de tamarindo con chile aporta:,365,365,156,641
+82,1 bebida hidratante con electrolitos de 600 ml aporta:,144,144,60,169
+83,5 nuggets de pollo aportan:,260,230,260,275
+84,1 cucharada de crema de avellana y chocolate aporta:,130,98,130,173
+85,100 gramos de pollo rostizado aporta:,238,166,238,180
+86,1 te helado embotellado de 500 ml aporta:,146,146,146,121
+87,1 huevo con salchicha aporta:,158,158,110,115
+88,100 gramos de Rib-Eye aporta:,246,246,234,43
+89,1 café moka de 600 ml con crema batida aporta:,330,553,330,453
+90,1 paleta de agua aporta:,41,18,41,37
+91,1 mazapan de cacahuate aporta:,130,83,130,91
+92,1 lonche de jamon aporta:,330,75,325,330
+93,10 fresas cubiertas con chocolate aportan:,340,366,270,340
+94,1/2 taza de cereal con chocolate y leche entera aporta:,260,260,190,406
+95,1/2 taza de chongos zamoranos aporta:,194,112,344,194
+96,2 mandarinas aporta:,68,70,48,68
+97,100 gramos de pasta aporta:,131,126,131,55
+98,6 aceitunas aportan:,46,46,14,64
+99,5 cocadas aportan:,613,247,864,613
+100,20 gramos de lunetas aportan:,80,80,70,145
+101,4 danoninos aportan:,181,88,194,181
+102,150 gramos de pasta alfredo aporta:,540,654,748,540
+103,1 cucharada de guacamole aporta:,23,23,20,32
+104,18 pistaches aportan:,73,73,44,35
+105,30 gramos de chicharron de cerdo aporta:,167,21,167,56
+106,1/4 taza de chilorio aporta:,185,185,154,132
+107,1 cucharada de pate de ganso aporta:,61,92,61,57
+108,1 torta ahogada con carnitas aporta:,405,324,597,405
+109,1 tazon de 300 ml de pozole aporta:,240,240,98,241
+110,4 flautas de pollo aportan:,328,381,204,328
+111,25 gramos de gorditas aporta:,172,172,127,67
+112,2 sopes rellenos aportan:,333,414,272,333
+113,3 chocolates con avellana aportan:,210,145,164,210
+114,450 ml de jugo de mango embotellado aporta:,202,202,234,230
+115,1 plato mediano de carne en su jugo aporta:,284,179,284,163
+116,4 gomitas aportan:,42,42,38,50
+117,1 taza de pure de papa aporta:,119,119,127,23
+118,1 taza de 240 ml de agua de coco aporta:,46,36,12,46
+119,1/2 taza de arandanos aporta:,51,62,51,30
+120,1 cerveza oscura de 355 ml aporta:,180,180,86,198
+121,1 lata de redbull de 250 ml aporta:,108,44,71,108
+122,1 lata de 350 ml de agua mineral aporta:,4,3,4,6
+123,5 datiles aportan:,115,115,123,96
+124,30 gramos de ate de membrillo aporta:,81,34,126,81
+125,1 toronja aporta:,76,112,44,76
+126,90 gramos de barra de amaranto aporta:,86,86,117,21
+127,1 barra de avena con chispas de chocolate aporta:,190,231,318,190
+128,1 bigote de chocolate aporta:,309,170,309,202
+129,1 brownie aporta:,228,373,228,66
+130,1 rebanada de 40 gramos de pay de manzana aporta:,95,91,115,95
+131,1 oreja mediana aporta:,243,101,243,63
+132,1 rebanada de panque de 32 gramos aporta:,120,154,120,49
+133,1 rol de canela de 60 gramos:,200,141,312,200
+134,1 tamal de carne de 80 gramos aporta:,365,207,239,365
+135,2 waffles con fruta aportan:,270,270,270,110
+136,1 paleta helada de vainilla con chocolate y almendras aporta:,320,160,317,320
+137,1/2 taza de cereal  aporta:,51,21,51,17
+138,100 gramos de elotes con crema y queso aportan:,170,32,170,65
+139,1 taza de lasaña de carne aporta:,333,218,303,333
+140,210 gramos de spaguetti aporta:,208,51,208,149
+141,1 taza de 240 ml de ponche de frutas aporta:,108,87,50,108
+142,1 hot dog aporta:,333,58,57,333
+143,1 rebanada de pan blanco con mermelada aporta:,112,112,66,54
+144,1 bebida de tapioca aporta:,400,291,310,400
+145,2 cucharaditas de miel aportan:,43,43,89,47
+146,300 gramos de ravioles rellenos con carne y salsa aportan:,550,550,798,295
+147,1/2 taza de garbanzo cocido con verduras aporta:,135,96,172,135
+148,1/2 taza de soya cocida con verduras aporta:,65,37,53,65
+149,1/2 taza de lentejas aporta:,115,115,91,76
+150,1 litro de michelada aporta:,494,580,50,494
+151,100 gramos de charales aportan:,327,278,327,432
+152,100 gramos de atun aporta:,143,132,100,143
+153,2 tacos de barbacoa medianos aportan:,333,107,333,203
+154,1 bombon con chocolate aporta:,70,70,13,57
+155,1 banderilla aporta:,460,460,576,192
+156,1 rebanada de 40 gramos de panela aporta:,58,59,40,58
+157,7 nueces de la india aportan:,66,109,66,44
+158,1 vaso de 300 ml de piña colada aporta:,165,49,165,105
+159,2  bombones aportan:,45,63,22,45
+160,1 copa de vino tinto de 100 ml aporta:,65,15,65,45
+161,1 quesadilla con queso bajo en grasa aporta:,107,150,56,107
+162,125 gramos de rajas con crema aporta:,139,139,40,59
+163,100 gramos de chuleta de cerdo aporta:,231,231,33,248
+164,1 salchicha aporta:,152,152,115,101
+165,1 rebanada de jamon aporta:,27,14,8,27
+166,2 molletes aportan:,380,380,545,77
+167,1/2 taza de flan aporta:,193,49,193,183
+168,100 gramos de camaron empanizado aporta:,242,242,310,246
+169,1 filete de salmon mediano a la parrilla aporta:,243,44,243,121
+170,25 gramos de galletas de nuez aportan:,125,69,29,125
+171,1 pan de muerto chico aporta:,220,220,241,168
+172,1 chile en nogada aporta:,450,276,571,450
+173,1 vaso de 240 ml de agua de tamarindo con azúcar aporta:,40,51,40,42
+174,1 dulce de tamarindo aporta:,37,53,35,37
+175,160 gramos de chilaquiles aporta:,270,266,16,270
+176,240 gramos de paella aporta:,379,120,379,125
+177,40 gramos de nieve de fresa aporta:,40,27,24,40
+178,1 taza de fresas con crema aporta:,250,250,105,214
+179,1 banana split aporta:,530,530,101,477
+180,1 taza de de 240 ml de agua de sandia con azucar aporta:,79,82,95,79
+181,1 filete de pescado mediano zarandeado:,315,315,321,222
+182,1 taza de caldo de pescado con verduras aporta:,51,22,44,51
+183,1 lata de cerveza light aporta:,153,153,161,163
+184,12 piezas de lichis aportan:,59,100,36,59
+185,1 taza de maracuya aporta:,132,132,88,97
+186,30 gramos de pasitas aportan:,90,49,90,51
+187,30 gramos de pasitas con chocolate aportan:,160,176,160,115
+188,1 croissant aporta:,232,213,242,232
+189,1 sandwich de nieve aporta:,169,30,118,169
+190,1 empanada de carne aporta:,263,45,94,263
+191,4 galletas saladas aporta:,69,38,69,95
+192,28 gramos de pretzels aportan:,109,73,109,155
+193,55 ml de whisky a las rocas aporta:,128,108,71,128
+194,100 gramos de chop suey aporta:,172,172,149,144
+195,1 quesadilla mediana frita con queso y salsa aporta:,280,134,382,280
+196,1 taza de 240 ml de caldo de pollo desgrasado aporta:,11,3,11,4
+197,100 gramos de salpicon de res aporta:,101,58,101,73
+198,3/4 taza de picadillo de res aporta:,248,248,252,107
+199,1 taza de 240 ml de sopa de tortilla aporta:,99,33,14,99
+200,100 gramos de ceviche de soya aporta:,90,106,90,38
+201,100 gramos de aguachile aporta:,107,130,126,107
+202,2 nopales asados con queso bajo en grasa aportan:,146,19,146,122
