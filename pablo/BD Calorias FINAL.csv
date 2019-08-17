@@ -1,0 +1,203 @@
+ID,DESCRIPCION,RESP_OK,R1,R2,R3,IMAGEN
+1,1 manzana aporta:,55,36,7,55,001.manzana.jpg
+2,1 naranja aporta:,36,29,31,36,002.naranja.jpg
+3,1 cereza aporta:,5,4,5,7,003.cereza.jpg
+4,1 pera aporta:,94,149,24,94,004.pera.jpg
+5,1 mango aporta:,144,139,144,101,005.mango.jpg
+6,1 granada aporta:,44,44,24,18,006.granada.jpg
+7,1 fresa aporta:,4,4,5,1,007.fresa.jpg
+8,1 durazno aporta:,30,29,30,10,008.durazno.jpg
+9,1 kiwi aporta:,46,50,52,46,009.kiwi.jpg
+10,1 platano aporta:,96,39,82,96,010.platano.jpg
+11,1 papa cocida mediana aporta:,143,146,143,204,011.papa.jpg
+12,1 taza de papaya aporta:,55,64,54,55,012.papaya.jpg
+13,1 jitomate aporta:,22,14,22,32,013.jitomate.jpg
+14,1 taza de brocoli cocido aporta:,52,52,21,56,014.brocoli.jpg
+15,14 piezas de cacahuate aportan:,73,63,68,73,015.cacahuate.jpg
+16,100 gramos de coco aporta:,354,265,354,314,016.coco.jpg
+17,1 taza de frambuesa aporta:,64,72,75,64,017.frambuesa.jpg
+18,1 taza de melon aporta:,53,53,63,27,018.melon.jpg
+19,1 taza de sandia aporta:,46,40,45,46,019.sandia.jpg
+20,1 taza de piña aporta:,50,99,68,50,020.piña.jpg
+21,1/2 aguacate aporta:,162,22,162,159,021.aguacate.jpg
+22,1 taza de moras aporta:,62,41,4,62,022.moras.jpg
+23,1 guanabana mediana aporta:,90,90,34,82,023.guanabana.jpg
+24,10 piezas de alitas de pollo fritas bañadas en salsa aportan:,890,792,890,1107,024.alitas.jpg
+25,1 rebanada de 80 gramos de pay de queso aporta:,264,299,66,264,025.payqueso.jpg
+26,5 galletas maria aportan:,69,27,69,15,026.galletasmaria.jpg
+27,1 taza de 200 ml de leche de almendra aporta:,30,30,37,53,027.lechealmendras.jpg
+28,1 taza de 240 ml de jugo de naranja natural aporta:,108,43,108,34,028.jugonaranja.jpg
+29,1 palomitas chicas de cine aporta:,430,567,275,430,029.palomitas.jpg
+30,10 almendras aportan:,66,66,79,70,030.almendras.jpg
+31,210 gramos de papas a la francesa aporta:,208,208,319,241,031.papasfrancesa.jpg
+32,1 taza de 240 ml de leche de vaca entera aporta:,148,148,23,119,032.leche.jpg
+33,1 lata de refresco de cola aporta:,139,194,96,139,033.refrescodecola.jpg
+34,1 rollo de 8 sushis con camaron aporta:,423,603,117,423,034.sushi.jpg
+35,2 rebanadas de pizza aportan:,365,205,101,365,035.pizza.jpg
+36,1 dona glaseada aporta: ,306,306,19,34,036.dona.jpg
+37,1 muffin aporta:,321,321,506,400,037.muffin.jpg
+38,1 panecillo con cubierta de chocolate aporta:,195,305,195,151,038.panecilloconcubiertadechocolate.jpg
+39,1 pieza de malvavisco con chocolate aporta:,118,28,44,118,039.malvaviscoconchocolate.jpg
+40,1 galleta con malvavisco cubierta con chocalate aporta:,199,70,146,199,040.mamut.jpg
+41,1 bolsa de papas fritas aporta: ,210,43,199,210,041.papasfritas.jpg
+42,8 aros de cebolla aportan:,276,45,276,400,042.arosdecebolla.jpg
+43,3 dedos de queso aportan:,255,295,255,332,043.dedosqueso.jpg
+44,1 taza de 240 ml de leche de soya aporta: ,127,127,84,219,044.lechesoya.jpg
+45,1/2 taza de frijoles fritos aporta:,188,244,188,178,045.frijolesfritos.jpg
+46,100 gramos de filete de pescado a la plancha aporta:,110,133,110,77,046.filetepescado.jpg
+47,100 gramos de filete de pescado empanizado aporta:,350,244,155,350,047.pescado.jpg
+48,5 palomitas de pollo con salsa aportan:,225,225,286,157,048.boneless.jpg
+49,1 taza de 240 ml de cocktail de camarones aporta:,196,196,273,221,049.coctelcamarones.jpg
+50,1 taza de arroz blanco con verduras aporta:,175,195,232,175,050.arrozblancoverduras.jpg
+51,1 taza de arroz con leche aporta:,370,119,392,370,051.arrozconleche.jpg
+52,6 galletas sabor chocolate aportan:,258,258,266,43,052.galletasaborchocolate.jpg
+53,"1 club sandwich de jamon, queso y verduras aporta:",280,66,247,280,053.sandwich.jpg
+54,1 rebanada de 80 gramos de pay de limon aporta:,315,210,315,160,054.paylimon.jpg
+55,1 rebanada de pastel de chocolate de 80 gramos aporta:,185,83,185,65,055.pastelchocolate.jpg
+56,3 galletas con chispas de chocolate aportan:,105,12,77,105,056.galletasconchispasdechocolate.jpg
+57,1 frape de chocolate aporta:,515,515,177,589,057.frapechocolate.jpg
+58,1 barra de chocolate de 41 gramos aporta:,230,44,230,91,058.chocolate.jpg
+59,1 taza de café de 240 ml sin azucar aporta:,5,5,8,3,059.cafe.jpg
+60,1 taza de te de manzanilla de 240 ml sin azucar:,2,3,2,1,060.temanzanilla.jpg
+61,1 shot de tequila aporta:,64,63,49,64,061.tequila.jpg
+62,2 hot cakes aportan:,270,201,228,270,062.hotcakes.jpg
+63,2 crepas dulces aportan:,195,179,241,195,063.crepas.jpg
+64,1 papas locas aportan:,668,175,340,668,064.papaslocas.jpg
+65,60 gramos de cacahuates japoneses aporta:,300,16,412,300,065.cacahuatesjaponeses.jpg
+66,3 nueces aportan: ,67,13,57,67,066.nueces.jpg
+67,1 taza de gelatina sin azucar aporta:,10,3,8,10,067.gelatinasinazucar.jpg
+68,1/2 taza de gelatina de leche aporta:,145,34,79,145,068.gelatinadeleche.jpg
+69,3 tacos de arrachera aportan:,480,645,480,309,069.tacosarrachera.jpg
+70,1 huevo cocido aporta:,57,28,57,71,070.huevococido.jpg
+71,1 huevo frito aporta:,90,67,90,79,071.huevofrito.jpg
+72,100 gramos de pescado frito aporta:,206,163,213,206,072.pescadofrito.jpg
+73,40 gramos de ensalada de surimi aporta:,126,42,88,126,073.ensaladasurimi.jpg
+74,2 tacos de tripa aportan:,333,187,333,100,074.tacostripa.jpg
+75,100 gramos de pavo cocido aporta:,126,99,126,172,075.filetepavo.jpg
+76,1 taza de 240 ml de leche con chocolate aporta:,208,188,93,208,076.lechechocolate.jpg
+77,100 gramos de filete de T-bone aporta:,247,247,167,206,077.tbone.jpg
+78,100 gramos de chicharron de pescado aporta:,410,149,410,239,078.chicharronpescado.jpg
+79,120 gramos de arrachera aporta:,120,164,99,120,079.arrachera.jpg
+80,3 piezas de sardina aportan:,75,41,101,75,080.sardina.jpg
+81,1 manzana enchilada de tamarindo con chile aporta:,365,365,156,641,081.manzanaenchilada.jpg
+82,1 bebida hidratante con electrolitos de 600 ml aporta:,144,144,60,169,082.bebidaconelectrolitos.jpg
+83,5 nuggets de pollo aportan:,260,230,260,275,083.nugetpollo.jpg
+84,1 cucharada de crema de avellana y chocolate aporta:,130,98,130,173,084.cremadeavellanaychocolate.jpg
+85,100 gramos de pollo rostizado aporta:,238,166,238,180,085.pollorostizado.jpg
+86,1 te helado embotellado de 500 ml aporta:,146,146,146,121,086.teheladoembotellado.jpg
+87,1 huevo con salchicha aporta:,158,158,110,115,086.huevocsalchicha.jpg
+88,100 gramos de Rib-Eye aporta:,246,246,234,43,087.rebeye.jpg
+89,1 café moka de 600 ml con crema batida aporta:,330,553,330,453,089.cafemoka.jpg
+90,1 paleta de agua aporta:,41,18,41,37,090.paletaagua.jpg
+91,1 mazapan de cacahuate aporta:,130,83,130,91,091.Mazapan.jpg
+92,1 lonche de jamon aporta:,330,75,325,330,092.lonchejamon.jpg
+93,10 fresas cubiertas con chocolate aportan:,340,366,270,340,093.fresaschocolate.jpg
+94,1/2 taza de cereal con chocolate y leche entera aporta:,260,260,190,406,094.cerealconchocolate.jpg
+95,1/2 taza de chongos zamoranos aporta:,194,112,344,194,095.chongozamorano.jpg
+96,2 mandarinas aporta:,68,70,48,68,096.mandarinas.jpg
+97,100 gramos de pasta aporta:,131,126,131,55,097.pasta.jpg
+98,6 aceitunas aportan:,46,46,14,64,098.aceitunas.jpg
+99,5 cocadas aportan:,613,247,864,613,099.cocada.jpg
+100,20 gramos de lunetas aportan:,80,80,70,145,100.lunetas.jpg
+101,4 danoninos aportan:,181,88,194,181,101.danonino.jpg
+102,150 gramos de pasta alfredo aporta:,540,654,748,540,102.alfredo.jpg
+103,1 cucharada de guacamole aporta:,23,23,20,32,103.guacamole.jpg
+104,18 pistaches aportan:,73,73,44,35,104.pistache.jpg
+105,30 gramos de chicharron de cerdo aporta:,167,21,167,56,105.chicharroncerdo.jpg
+106,1/4 taza de chilorio aporta:,185,185,154,132,106.chilorio.jpg
+107,1 cucharada de pate de ganso aporta:,61,92,61,57,107.patedeganzo.jpg
+108,1 torta ahogada con carnitas aporta:,405,324,597,405,108.tortaahogada.jpg
+109,1 tazon de 300 ml de pozole aporta:,240,240,98,241,109.pozole.jpg
+110,4 flautas de pollo aportan: ,328,381,204,328,110.flautaspollo.jpg
+111,25 gramos de gorditas aporta:,172,172,127,67,111.gorditas.jpg
+112,2 sopes rellenos aportan:,333,414,272,333,112.sopes.jpg
+113,3 chocolates con avellana aportan:,210,145,164,210,113.ferrero.jpg
+114,450 ml de jugo de mango embotellado aporta:,202,202,234,230,114.jumex.jpg
+115,1 plato mediano de carne en su jugo aporta:,284,179,284,163,115.carneensujugo.jpg
+116, 4 gomitas aportan:,42,42,38,50,116.gomitas.jpg
+117,1 taza de pure de papa aporta:,119,119,127,23,117.purepapa.jpg
+118,1 taza de 240 ml de agua de coco aporta:,46,36,12,46,118.aguacoco.jpg
+119,1/2 taza de arandanos aporta:,51,62,51,30,119.arandano.jpg
+120,1 cerveza oscura de 355 ml aporta:,180,180,86,198,120.cervezaoscura.jpg
+121,1 lata de redbull de 250 ml aporta:,108,44,71,108,121.redbull.jpg
+122,1 lata de 350 ml de agua mineral aporta:,4,3,4,6,122.aguamineral.jpg
+123,5 datiles aportan:,115,115,123,96,123.datiles.jpg
+124,30 gramos de ate de membrillo aporta:,81,34,126,81,124.atemembrillo.jpg
+125,1 toronja aporta:,76,112,44,76,125.toronja.jpg
+126,90 gramos de barra de amaranto aporta:,86,86,117,21,126.barraamaranto.jpg
+127,1 barra de avena con chispas de chocolate aporta:,190,231,318,190,127.barraavenaconchispas.jpg
+128,1 bigote de chocolate aporta:,309,170,309,202,128.bigote.jpg
+129,1 brownie aporta: ,228,373,228,66,129.brownie.jpg
+130, 1 rebanada de 40 gramos de pay de manzana aporta:,95,91,115,95,130.paymanzana.jpg
+131,1 oreja mediana aporta:,243,101,243,63,131.oreja.jpg
+132,1 rebanada de panque de 32 gramos aporta:,120,154,120,49,132.panque.jpg
+133,1 rol de canela de 60 gramos:,200,141,312,200,133.rolcanela.jpg
+134,1 tamal de carne de 80 gramos aporta:,365,207,239,365,134.tamalcarne.jpg
+135,2 waffles con fruta aportan:,270,270,270,110,135.waffle.jpg
+136,1 paleta helada de vainilla con chocolate y almendras aporta:,320,160,317,320,136.magnum.jpg
+137,1/2 taza de cereal  aporta:,51,21,51,17,137.cereal.jpg
+138,100 gramos de elotes con crema y queso aportan:,170,32,170,65,138.elotescrema.jpg
+139,1 taza de lasaña de carne aporta:,333,218,303,333,139.lasaña.jpg
+140,210 gramos de spaguetti aporta:,208,51,208,149,140.spaguetti.jpg
+141,1 taza de 240 ml de ponche de frutas aporta:,108,87,50,108,141.ponche.jpg
+142,1 hot dog aporta:,333,58,57,333,142.hotdog.jpg
+143,1 rebanada de pan blanco con mermelada aporta:,112,112,66,54,143.panmermelada.jpg
+144,1 bebida de tapioca aporta:,400,291,310,400,144.tapioca.jpg
+145,2 cucharaditas de miel aportan:,43,43,89,47,145.miel.jpg
+146,300 gramos de ravioles rellenos con carne y salsa aportan:,550,550,798,295,146.ravioles.jpg
+147,1/2 taza de garbanzo cocido con verduras aporta:,135,96,172,135,147.garbanzos.jpg
+148,1/2 taza de soya cocida con verduras aporta:,65,37,53,65,148.soya.jpg
+149, 1/2 taza de lentejas aporta:,115,115,91,76,149.lentejas.jpg
+150,1 litro de michelada aporta:,494,580,50,494,150.michelada.jpg
+151,100 gramos de charales aportan:,327,278,327,432,151.charales.jpg
+152,100 gramos de atun aporta:,143,132,100,143,152.atun.jpg
+153,2 tacos de barbacoa medianos aportan:,333,107,333,203,153.tacosbarbacoa.jpg
+154,1 bombon con chocolate aporta:,70,70,13,57,154.bombonchocolate.jpg
+155,1 banderilla aporta:,460,460,576,192,155.banderilla.jpg
+156,1 rebanada de 40 gramos de panela aporta:,58,59,40,58,156.panela.jpg
+157,7 nueces de la india aportan:,66,109,66,44,157.nuezdelaindia.jpg
+158,1 vaso de 300 ml de piña colada aporta:,165,49,165,105,158.piñacolada.jpg
+159,2  bombones aportan:,45,63,22,45,159.bombones.jpg
+160,1 copa de vino tinto de 100 ml aporta:,65,15,65,45,160.vinotinto.jpg
+161,1 quesadilla con queso bajo en grasa aporta:,107,150,56,107,161.quesadillas.jpg
+162,125 gramos de rajas con crema aporta:,139,139,40,59,162.rajasconcrema.jpg
+163,100 gramos de chuleta de cerdo aporta:,231,231,33,248,163.chuletacerdo.jpg
+164,1 salchicha aporta:,152,152,115,101,164.salchicha.jpg
+165,1 rebanada de jamon aporta:,27,14,8,27,165.jamon.jpg
+166,2 molletes aportan:,380,380,545,77,166.mollete.jpg
+167,1/2 taza de flan aporta:,193,49,193,183,167.flan.jpg
+168,100 gramos de camaron empanizado aporta:,242,242,310,246,168.camaronempanizado.jpg
+169,1 filete de salmon mediano a la parrilla aporta:,243,44,243,121,169.salmon.jpg
+170,25 gramos de galletas de nuez aportan:,125,69,29,125,170.galletasnuez.jpg
+171,1 pan de muerto chico aporta:,220,220,241,168,171.pandemuerto.jpg
+172,1 chile en nogada aporta:,450,276,571,450,172.chileennogada.jpg
+173,1 vaso de 240 ml de agua de tamarindo con azúcar aporta:,40,51,40,42,173.aguadetamarindo.jpg
+174,1 dulce de tamarindo aporta: ,37,53,35,37,174.dulcedetamarindo.jpg
+175,160 gramos de chilaquiles aporta:,270,266,16,270,175.chilaquiles.jpg
+176,240 gramos de paella aporta:,379,120,379,125,176.paella.jpg
+177,40 gramos de nieve de fresa aporta:,40,27,24,40,177.nievefresa.jpg
+178,1 taza de fresas con crema aporta:,250,250,105,214,178.fresasconcrema.jpg
+179,1 banana split aporta:,530,530,101,477,179.bananasplit.jpg
+180,1 taza de de 240 ml de agua de sandia con azucar aporta:,79,82,95,79,180.aguasandia.jpg
+181,1 filete de pescado mediano zarandeado:,315,315,321,222,181.pescado zarandeado.jpg
+182,1 taza de caldo de pescado con verduras aporta:,51,22,44,51,182.caldodepescado.jpg
+183,1 lata de cerveza light aporta:,153,153,161,163,183.cervezalight.jpg
+184, 12 piezas de lichis aportan:,59,100,36,59,184.lichis.jpg
+185,1 taza de maracuya aporta:,132,132,88,97,185.maracuya.jpg
+186,30 gramos de pasitas aportan:,90,49,90,51,186.pasitas.jpg
+187,30 gramos de pasitas con chocolate aportan:,160,176,160,115,186.pasitasconchocolate.jpg
+188,1 croissant aporta:,232,213,242,232,187.croissant.jpg
+189,1 sandwich de nieve aporta:,169,30,118,169,189.sandwichdenieve.jpg
+190,1 empanada de carne aporta:,263,45,94,263,190.empanadas.jpg
+191, 4 galletas saladas aporta:,69,38,69,95,191.galletassaladas.jpg
+192,28 gramos de pretzels aportan:,109,73,109,155,192.pretzels.jpg
+193,55 ml de whisky a las rocas aporta:,128,108,71,128,193.whisky.jpg
+194,100 gramos de chop suey aporta:,172,172,149,144,194.chopsuey.jpg
+195,1 quesadilla mediana frita con queso y salsa aporta:,280,134,382,280,195.quesadillafrita.jpg
+196,1 taza de 240 ml de caldo de pollo desgrasado aporta:,11,3,11,4,196.caldodepollo.jpg
+197,100 gramos de salpicon de res aporta: ,101,58,101,73,197.salpiconderes.jpg
+198,3/4 taza de picadillo de res aporta:,248,248,252,107,198.picadilloderes.jpg
+199,1 taza de 240 ml de sopa de tortilla aporta:,99,33,14,99,199.sopadetortilla.jpg
+200,100 gramos de ceviche de soya aporta:,90,106,90,38,200.cevichedesoya.jpg
+201,100 gramos de aguachile aporta:,107,130,126,107,201.aguachile.jpg
+202,2 nopales asados con queso bajo en grasa aportan:,146,19,146,122,202.nopalesasadosconqueso.jpg
