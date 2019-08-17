@@ -6,13 +6,15 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
 
-var db = admin.firestore();
-let jsonQuestions = convertCsvToJson();
-for (let i = 0; i < questions.length; i++) {
-  var nuevoJson = db.collection('questions').doc(questions.id);
-  nuevoJson.set();
+async function saveQuestions() {
+  var db = admin.firestore();
+  let questions = await convertCsvToJson();
+  for (let i = 0; i < questions.length; i++) {
+    await db.collection('questions_test')
+      .doc(questions[i].id)
+      .set(questions[i]);
+    console.log(questions[i], 'completed!')
+  }
 }
 
-  
-
-
+saveQuestions();
